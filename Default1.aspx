@@ -11,6 +11,5 @@
         <P>he bro </P>
         hi i am fine what about u....???????
     </form>
-    <input type="button" value="save"/>
 </body>
 </html>
